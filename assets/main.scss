@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+h1, h2, h3, h4 {
+  margin-top: 1em;
+  margin-bottom: 0;
+
+  font-weight: bold;
+}
+
+h2 {
+  border-bottom: 1px solid #eaecef;
+}
+
+.actions {
+  text-align: center;
+
+  margin-top: 0;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+}
+

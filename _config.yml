@@ -1,0 +1,7 @@
+lang: "ru"
+
+githubUrl: "https://github.com/htmlacademy/intensive-nodejs-criteria"
+issuesUrl: "https://github.com/htmlacademy/intensive-nodejs-criteria/issues"
+pullsUrl: "https://github.com/htmlacademy/intensive-nodejs-criteria/pulls"
+
+theme: minima
